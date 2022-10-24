@@ -1,0 +1,4 @@
+domain\Loan.class
+views\LibraryServer.class
+za\co\mycput\libraryproject\ServerMain.class
+dao\LoanDAO.class
